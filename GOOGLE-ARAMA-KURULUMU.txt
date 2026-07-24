@@ -1,0 +1,24 @@
+FİKİR KUBBESİ — GOOGLE ARAMA KURULUMU
+
+V5 ile eklenen teknik dosyalar:
+- sitemap.xml
+- robots.txt
+- Organization/NGO yapılandırılmış verisi
+- canonical bağlantı
+- SEO başlığı ve açıklaması
+- sosyal medya önizleme etiketleri
+
+YAYIN SONRASI SEARCH CONSOLE:
+1. https://search.google.com/search-console adresini aç.
+2. “Mülk ekle” seçeneğine bas.
+3. “URL ön eki” bölümüne şu adresi eksiksiz yapıştır:
+   https://bartuyaparoglu9-gif.github.io/fikirkubbesi/
+4. HTML etiketi doğrulamasını seçersen verilen meta kodunu index.html dosyasındaki <head> bölümüne ekle.
+   Alternatif olarak HTML dosyası doğrulaması da kullanılabilir.
+5. Sol menüden “Site Haritaları”na gir.
+6. Yeni site haritası alanına sadece sitemap.xml yazıp gönder.
+7. “URL Denetimi”ne ana sayfa adresini yapıştır ve “Dizine eklenmesini iste” seçeneğini kullan.
+
+ÖNEMLİ:
+Google’da görünmek anlık değildir. Doğrulama ve dizine ekleme isteğinden sonra tarama süresi Google’a bağlıdır.
+Alan adı alındığında canonical, sitemap, robots ve Search Console mülkü yeni alan adına göre güncellenmelidir.

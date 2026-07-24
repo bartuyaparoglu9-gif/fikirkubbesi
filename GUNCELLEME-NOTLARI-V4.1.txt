@@ -1,0 +1,19 @@
+FIKUBDER V4.1
+
+YENİLİKLER
+- Tarayıcı sekmesi başlığı düzenlendi.
+- Dernek logosundan favicon oluşturuldu.
+- Google arama sonuçları için açıklama, anahtar kelimeler ve robot etiketleri eklendi.
+- WhatsApp, Instagram ve diğer platformlarda bağlantı paylaşımı için Open Graph etiketleri eklendi.
+- Yapılandırılmış NGO verisi eklendi.
+- İletişim bölümüne Bergama genel konumunu gösteren Google Haritalar eklendi.
+- Kesin adres olmadığı için haritada Bergama merkez gösterilmektedir.
+
+GITHUB'A YÜKLEME
+1. ZIP'i ayıkla.
+2. GitHub'daki fikirkubbesi deposunu aç.
+3. Add file > Upload files seç.
+4. V4.1 klasörünün içindeki tüm dosyaları yükleme alanına bırak.
+5. Aynı isimli dosyalar güncellenecektir.
+6. Commit changes düğmesine bas.
+7. GitHub Pages birkaç dakika içinde otomatik güncellenir.

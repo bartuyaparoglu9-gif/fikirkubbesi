@@ -1,0 +1,10 @@
+FIKUBDER V5
+
+- Harita Kuzey Ege SRC Binası konumuna güncellendi.
+- İletişim alanına kurumsal adres kartı eklendi.
+- Google Haritalar yol tarifi düğmesi eklendi.
+- sitemap.xml ve robots.txt eklendi.
+- NGO yapılandırılmış verisi geliştirildi.
+- Web uygulaması manifesti eklendi.
+- Mobil adres ve harita görünümü iyileştirildi.
+- Google Search Console kurulum rehberi pakete eklendi.

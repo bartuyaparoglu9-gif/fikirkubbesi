@@ -1,0 +1,17 @@
+{
+  "name": "Fikir Kubbesi Dayanışma ve Eğitim Derneği",
+  "short_name": "Fikir Kubbesi",
+  "start_url": "/fikirkubbesi/",
+  "scope": "/fikirkubbesi/",
+  "display": "standalone",
+  "background_color": "#07111d",
+  "theme_color": "#07111d",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "assets/images/favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
