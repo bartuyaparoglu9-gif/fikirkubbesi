@@ -1,0 +1,16 @@
+FIKUBDER V4
+
+YAPILAN REVİZYONLAR
+- Projeler ana başlığının altındaki geliştirici notu tamamen kaldırıldı.
+- Proje kartları daha dengeli ve kurumsal hâle getirildi.
+- Kartlara 'Detayları yakında' bilgisi eklendi.
+- Sağ alttaki ampul simgesi kaldırıldı.
+- Yerine fikir paylaşımını temsil eden sade mesaj balonu simgesi eklendi.
+- Hover ve gölge efektleri iyileştirildi.
+- Mobil görünüm yeniden dengelendi.
+
+ÇALIŞTIRMA
+1. ZIP dosyasını ayıkla.
+2. FIKUBDER-v4 klasörünü VS Code ile aç.
+3. index.html dosyasına sağ tıkla.
+4. Open with Live Server seçeneğini kullan.
